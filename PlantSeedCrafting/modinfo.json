@@ -8,7 +8,7 @@
   "banner": "banner.jpg",
   "gameVersion": "1.0",
   "requiredByAllPlayers": false,
-  "updateUrl": "https://www.raftmodding.com/api/v1/mods/plantseedcrafting/version.txt",
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/plant-seed-crafting/version.txt",
   "isModPermanent": false,
   "excludedFiles": []
 }
